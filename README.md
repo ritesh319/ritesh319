@@ -1,27 +1,91 @@
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">I am a passionate software developer with strong interest in AI and full</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611ut8eqvikdo1ab7wecadyak7to3g5scla0h2bgwc1&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="300" style="width: 120%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh319&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh319" /> </p>
+### <div align="center">Hi! I'm Ritesh, a passionate software developer with a strong interest in AI and full-stack development 🚀</div>
 
-- I create **websites and train AI models to improve the comprehension of human tasks.**
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owamFxdGhkZ255dnkwM3R2OWJ2dDZldnJmYWxvbDZma3FycGJ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" style="width: 50%" />
 
-- Ask me about **anything related to AI and its groundbreaking discoveries.**
+<br/>
 
-- 📫 How to reach me **riteshk3113@gmail.com**
+- 🔭 I create **websites and train AI models to improve human task comprehension.**  
+- 🌱 I work with **AI, full-stack development, and cloud computing.**  
+- ❓ Ask me about **anything related to AI and its groundbreaking discoveries.**  
+- ⚡ Fun fact: **I prefer hibernate instead of shutdown.**  
 
-- ⚡ Fun fact: **I prefer hibernate instead to shut down.**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritesh-kumar-aa69b2289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh-kumar-aa69b2289" height="30" width="40" /></a>
-<a href="https://instagram.com/riteshk3119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riteshk3119" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/riteshkumar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riteshkumar32" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/riteshk3119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riteshk3119" height="30" width="40" /></a>
-</p>
+## My Skill Set  
+<table><tr><td valign="top" width="25%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frontend  
+<div align="center">  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh319&show_icons=true&locale=en&layout=compact" alt="ritesh319" /></p>
+</td><td valign="top" width="25%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh319&show_icons=true&locale=en" alt="ritesh319" /></p>
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="25%">
+
+### DevOps  
+<div align="center">  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="25%">
+
+### Programming Languages 
+<div align="center">  
+<a href="https://devdocs.io/c/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://devdocs.io/cpp/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+
+<br/>
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/ritesh-kumar-aa69b2289" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/riteshk3119" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/riteshkumar32" target="_blank">
+<img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.leetcode.com/riteshk3119" target="_blank">
+<img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+<br/>
+
+## GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh319&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh319&&style=flat-square" align="center" />
+</div>  
+
+<br/>
+
+![water](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
