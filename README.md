@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611ut8eqvikdo1ab7wecadyak7to3g5scla0h2bgwc1&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="300" style="width: 120%" />
 </div>
 
-### <div align="center">Hi! I'm Ritesh, an AI and full-stack developmener 🚀</div>
+### <div align="center">Hi! I'm Ritesh, an AI and full-stack developer 🚀</div>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owamFxdGhkZ255dnkwM3R2OWJ2dDZldnJmYWxvbDZma3FycGJ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" style="width: 50%" />
 
