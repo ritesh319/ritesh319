@@ -2,15 +2,15 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611ut8eqvikdo1ab7wecadyak7to3g5scla0h2bgwc1&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="300" style="width: 120%" />
 </div>
 
-### <div align="center">Hi! I'm Ritesh, an AI and full-stack developer 🚀</div>
+### <div align="center">Hi! I'm Ritesh, just your ordinary guy with not-so-ordinary hobbies 🚀</div>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owamFxdGhkZ255dnkwM3R2OWJ2dDZldnJmYWxvbDZma3FycGJ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" style="width: 50%" />
 
 <br/>
 
 - 🔭 I create **websites and train AI models to improve human task comprehension.**  
-- 🌱 I work with **AI, full-stack development, and cloud computing.**  
-- ❓ Ask me about **anything related to AI and its groundbreaking discoveries.**  
+- 🌐 **Full-stack by passion, AI by obsession, and cloud just for fun.**   
+- 📬 I believe the best ideas start with **“What if…?” — so let’s connect and build something wild.**
 - ⚡ Fun fact: **I prefer hibernate instead of shutdown.**  
 
 <br/>
